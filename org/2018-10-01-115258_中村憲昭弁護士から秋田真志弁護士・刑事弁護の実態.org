@@ -1,0 +1,13 @@
+#+STARTUP: content
+#+TAGS: 検察(k) 警察(p) 弁護士(b) 裁判所(s) 報道(h) 裁判所(j) 公開(o)
+#+OPTIONS:  H:3  num:t  toc:t  \n:nil  @:t  ::t  |:t  ^:t  *:nil  TeX:t LaTeX:t
+#+STARTUP: hidestars
+#+TITLE: "中村憲昭弁護士から秋田真志弁護士・刑事弁護の実態"
+#+AUTHOR: 廣野秀樹
+#+EMAIL:  hirono2013k@gmail.com
+#+DATE: 2018-10-01 11:52:58 +0900
+CATEGORY: 石川県警察御中,金沢地方検察庁御中
+tags:  秋田真志弁護士 中村憲昭弁護士 秋田の弁護士刺殺事件
+
+#contents
+

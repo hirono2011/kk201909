@@ -1,0 +1,545 @@
+#+STARTUP: content
+#+TAGS: 検察(k) 警察(p) 弁護士(b) 裁判所(s) 報道(h) 裁判所(j) 公開(o)
+#+OPTIONS:  H:3  num:t  toc:t  \n:nil  @:t  ::t  |:t  ^:t  *:nil  TeX:t LaTeX:t
+#+STARTUP: hidestars
+#+TITLE: "スポーツの世界では、告発による失脚に希望を感じるという、渡辺輝人弁護士のツイート"
+#+AUTHOR: 廣野秀樹
+#+EMAIL:  hirono2013k@gmail.com
+#+DATE: 2018-09-07 19:38:41 +0900
+
+#contents
+
+* ツイート
+** 深澤諭史弁護士のリツイート
+
+ ▷ リツイート→fukazawas（深澤諭史）＞nabeteru1Q78（渡辺輝人）｜2018/09/07 18:58／2018/09/07 18:57｜[[https://twitter.com/fukazawas/status/1038003506366402561>>https://twitter.com/fukazawas/status/1038003506366402561]]  ／[[https://twitter.com/nabeteru1Q78/status/1038003249490477056>>https://twitter.com/nabeteru1Q78/status/1038003249490477056]]  
+ &twitter(1038003506366402561){theme:light}  
+ > RT @nabeteru1Q78: スポーツの世界では、この間、専制君主みたいな指導者が、若い選手たちの告発によって失脚する事態が続いており、希望を感じる。スポーツ選手が指導者に支配される事態は恐らく昔からあったと思うが、時代が変わりつつある。~~  
+ ▷
+
+ 　深澤諭史弁護士はかねてより、東京オリンピックに否定的なツイートが多く、スポーツ全般における危険性についても厳しい意見を述べてきたように思います。そのような考え、スタンスの弁護士は他にもいますが、弁護士商売としての儲けを期待した凄まじい泥棒根性の発露ではないかとも見てきました。
+
+ 　東京オリンピックの開催が決まる前だったように思いますが、最初にそのようなことを考えたのは、「組体操」あるいは「組み体操」というキーワードでの弁護士らのツイートでした。以前まとめたものがあるかと思います。
+
+*** 「組み体操」をキーワードにした弁護士らのツイートの記録
+
+ [9994]  % dp -w|grep 体操|sed 's/$/\n/'
+ 2017年10月10日21時15分の登録： ＼深澤諭史　@fukazawas　RT：　@RyoUchida_RIRIS＼組み体操の事故３５％減少　対策の成果と今後の課題(内田良) [[http://hirono2014sk.blogspot.com/2017/10/fukazawasrtryouchidariris.html>>http://hirono2014sk.blogspot.com/2017/10/fukazawasrtryouchidariris.html]]
+
+ 2017年10月18日14時49分の登録： ＼うのじ　@un_co_the2nd　RT：　@mas__yamazaki＼「組み体操」と称する人命軽視の児童虐待について、 [[http://hirono2014sk.blogspot.com/2017/10/uncothe2ndrtmasyamazaki.html>>http://hirono2014sk.blogspot.com/2017/10/uncothe2ndrtmasyamazaki.html]]
+
+ 2017年10月18日14時49分の登録： ＼細川暁子　@HosokawaAkiko＼２７年前に、組み体操事故で息子さんを亡くしたご遺族が、沈黙を破り取材に応じてくださった [[http://hirono2014sk.blogspot.com/2017/10/hosokawaakiko.html>>http://hirono2014sk.blogspot.com/2017/10/hosokawaakiko.html]]
+
+ 2017年10月30日10時18分の登録： ＼深澤諭史　@fukazawas＼件の黒髪事件にしろ、組体操にしろ、いろいろみていると、\n日本の小中高校って、日本国全体で、ミルグラム反応やスタンフォード監獄実験をやって [[http://hirono2014sk.blogspot.com/2017/10/fukazawas_30.html>>http://hirono2014sk.blogspot.com/2017/10/fukazawas_30.html]]
+
+ 2017年11月02日23時59分の登録： ＼芳賀淳　@jjjhaga＼「組み体操で死亡」 中３遺族が提訴、損害賠償求める [[http://hirono2014sk.blogspot.com/2017/11/jjjhaga.html>>http://hirono2014sk.blogspot.com/2017/11/jjjhaga.html]]
+
+ 2017年11月07日04時17分の登録： ＼えきなんローヤー　@ekinan_lawyer＼組体操は団結の証などではなく。日常学校生活に潜む狂気が具現化しやすい悪魔の儀式ぐらいには思ってる。 [[http://hirono2014sk.blogspot.com/2017/11/ekinanlawyer_7.html>>http://hirono2014sk.blogspot.com/2017/11/ekinanlawyer_7.html]]
+
+ 2017年11月07日16時07分の登録： ＼えきなんローヤー　@ekinan_lawyer＼組体操は団結の証などではなく。日常学校生活に潜む狂気が具現化しやすい悪魔の儀式ぐらいには思ってる。 [[http://hirono2014sk.blogspot.com/2017/11/ekinanlawyer_37.html>>http://hirono2014sk.blogspot.com/2017/11/ekinanlawyer_37.html]]
+
+ 2017年11月09日15時56分の登録： REGEXP：”組み？体操．＊（事故）？”／データベース登録済みツイートの検索（2017年11月09日15時56分の記録116件） [[http://hirono2014sk.blogspot.com/2017/11/regexp201711091556116.html>>http://hirono2014sk.blogspot.com/2017/11/regexp201711091556116.html]]
+
+ 2017年11月09日16時06分の登録： ％@keita_adachi　弁護士あだちけいた㌠％そろそろ目聡いどこかが弁護団結成しそう\n\n＜組み体操＞骨折事故５件…４～５月　東京・練馬の小中学校（毎日新聞） [[http://hirono2014sk.blogspot.com/2017/11/keitaadachinn.html>>http://hirono2014sk.blogspot.com/2017/11/keitaadachinn.html]]
+
+ 2017年11月09日16時07分の登録： ％@motoken_tw　モトケン％「競技を一律に中止するのはよくない」→「判断は各学校で」というのは論理の飛躍。責任の丸投げ。＞組み体操、一律中止にはせず - 東京都「判断は各学校で」 [[http://hirono2014sk.blogspot.com/2017/11/motokentw_83.html>>http://hirono2014sk.blogspot.com/2017/11/motokentw_83.html]]
+
+ 2017年11月09日16時12分の登録： ％@kmuramatsu　村松 謙％「より安全な組み体操を提言したいとしています。」って！\n組み体操自体、やめるという発想になぜならないのか。。。  [[http://hirono2014sk.blogspot.com/2017/11/kmuramatsu-n.html>>http://hirono2014sk.blogspot.com/2017/11/kmuramatsu-n.html]]
+
+ 2017年11月09日16時13分の登録： ％@okumuraosaka　児童ポルノ/わいせつ/青少年淫行弁護人％組み体操 中学校の3割が中止 | 2017/8/14(月) - Yahoo!ニュース  [[http://hirono2014sk.blogspot.com/2017/11/okumuraosaka-3-2017814-yahoo.html>>http://hirono2014sk.blogspot.com/2017/11/okumuraosaka-3-2017814-yahoo.html]]
+
+ 2017年11月09日16時16分の登録： ％@oyamalaw　弁護士 大山定伸％組体操をやめるという方法がもっとも簡単。\n\n事故相次ぐ組み体操 安全な方法を研究者が紹介 | NHKニュース  [[http://hirono2014sk.blogspot.com/2017/11/oyamalaw-nn-nhk.html>>http://hirono2014sk.blogspot.com/2017/11/oyamalaw-nn-nhk.html]]
+
+ 2017年11月09日16時30分の登録： REGEXP：”組体操．＊（事故）？”／データベース登録済みツイートの検索（2017年11月09日16時30分の記録140件） [[http://hirono2014sk.blogspot.com/2017/11/regexp201711091630140.html>>http://hirono2014sk.blogspot.com/2017/11/regexp201711091630140.html]]
+
+ 2017年11月09日16時31分の登録： REGEXP：”組（み）？体操．＊（事故）？”／データベース登録済みツイートの検索（2017年11月09日16時31分の記録249件） [[http://hirono2014sk.blogspot.com/2017/11/regexp201711091631249.html>>http://hirono2014sk.blogspot.com/2017/11/regexp201711091631249.html]]
+
+ 2017年11月09日16時32分の登録： REGEXP：”組（み）？体操．＊未必の故意”／データベース登録済みツイートの検索（2017年11月09日16時32分の記録2件） [[http://hirono2014sk.blogspot.com/2017/11/regexp2017110916322.html>>http://hirono2014sk.blogspot.com/2017/11/regexp2017110916322.html]]
+
+ 2017年11月21日14時21分の登録： ＼ystk　@lawkus＼アイドルなら恋愛禁止でも仕方ない、生徒なら組体操で壊されても仕方ない等。貴乃花が悪者にされる流れもその一例だと思うよ。 [[http://hirono2014sk.blogspot.com/2017/11/ystklawkus_31.html>>http://hirono2014sk.blogspot.com/2017/11/ystklawkus_31.html]]
+
+ 2018年01月15日10時16分の登録： ＼化石　@beautifulday00＼組体操をやった時点で暴行罪、怪我させたら傷害罪でガンガン立件すべき。警察と検察仕事しろ。 [[http://hirono2014sk.blogspot.com/2018/01/beautifulday00_89.html>>http://hirono2014sk.blogspot.com/2018/01/beautifulday00_89.html]]
+
+ 2018年09月03日02時01分の登録： ＼とりなお　@naotarou1981＼ボクシングや体操で「１人に権力が集中した結果どうなったか」が詳らかになっている中で，森友問題スクープを連発したＮＨＫ記者が左遷され [[http://hirono2014sk.blogspot.com/2018/09/naotarou1981.html>>http://hirono2014sk.blogspot.com/2018/09/naotarou1981.html]]
+
+*** 「オリンピック」をキーワードにした弁護士らのツイートの記録
+
+ 2014年04月14日09時33分の登録： 忘れっぽい日本人が忘れた、東京オリンピックの頃に炸裂、にならなければ良い\nが。あとは運かな。／落合洋司弁護士 [[http://hirono2014sk.blogspot.com/2014/04/blog-post_5450.html>>http://hirono2014sk.blogspot.com/2014/04/blog-post_5450.html]]
+
+ 2014年11月24日12時54分の登録： このまま推移すれば、東京オリンピックの頃の日本は、さらに貧富の差が開き、\n将来に展望を見出せない人が大量にいて、消費税も上がり生活は／落合洋司弁護\n士 [[http://hirono2014sk.blogspot.com/2014/11/blog-post_416.html>>http://hirono2014sk.blogspot.com/2014/11/blog-post_416.html]]
+
+ 2017年10月09日15時07分の登録： ＼深澤諭史　@fukazawas＼オリンピックで報酬をもらっていい人、悪い人、国民的祭典にしたいならば、この見えない醜い壁を取り払うところから始めよう [[http://hirono2014sk.blogspot.com/2017/10/fukazawas_67.html>>http://hirono2014sk.blogspot.com/2017/10/fukazawas_67.html]]
+
+ 2017年10月09日20時31分の登録： ＼深澤諭史　@fukazawas＼新国立競技場をオリンピックに使用することは、オリンピックの人道、人権尊重、奴隷労働の排除という精神と相入れないと思います。 （・∀・＃） [[http://hirono2014sk.blogspot.com/2017/10/fukazawas.html>>http://hirono2014sk.blogspot.com/2017/10/fukazawas.html]]
+
+ 2017年12月03日17時24分の登録： ＼ささきりょう　@ssk_ryo＼ブラック企業大賞2017はどの企業？NHKや東京オリンピック関連企業等がノミネート、その理由(志葉玲) - Y!ニュース [[http://hirono2014sk.blogspot.com/2017/12/sskryo2017nhk-y.html>>http://hirono2014sk.blogspot.com/2017/12/sskryo2017nhk-y.html]]
+
+ 2017年12月03日22時09分の登録： ＼向原総合法律事務所　弁護士向原　@harrier0516osk＼オリンピックに何兆円も使うのに、人の命にはお金はかけられない国 [[http://hirono2014sk.blogspot.com/2017/12/harrier0516osk_99.html>>http://hirono2014sk.blogspot.com/2017/12/harrier0516osk_99.html]]
+
+ 2017年12月07日06時38分の登録： ＼落合洋司 Yoji Ochiai　@yjochi＼この弁解はすごい。弁解オリンピックに出られる。→わいせつ行為疑いの町長「女性記者を助けようと」：朝日新聞デジタル [[http://hirono2014sk.blogspot.com/2017/12/yoji-ochiaiyjochi_18.html>>http://hirono2014sk.blogspot.com/2017/12/yoji-ochiaiyjochi_18.html]]
+
+ 2018年01月11日11時50分の登録： ＼深澤諭史　@fukazawas＼東京オリンピック２０２０で，いろいろ「レガシー」が生まれるとのことですが，始まる前から，日本伝統の負のレガシーを散々見せつけられて，お腹 [[http://hirono2014sk.blogspot.com/2018/01/fukazawas_11.html>>http://hirono2014sk.blogspot.com/2018/01/fukazawas_11.html]]
+
+ 2018年02月07日06時03分の登録： ＼落合洋司 Yoji Ochiai　@yjochi＼日本中が、天皇退位、新元号、さらにオリンピックで大騒ぎしている間に、眞子さま、婚約者に諦めさせ、ひっそりと婚約解消とい [[http://hirono2014sk.blogspot.com/2018/02/yoji-ochiaiyjochi_58.html>>http://hirono2014sk.blogspot.com/2018/02/yoji-ochiaiyjochi_58.html]]
+
+ 2018年02月10日01時27分の登録： ＼うのじ@マヒシュマティ　@un_co_the2nd＼ドフフフ…可能性あり…！！ １の円盤買いましてね。オリンピックの開会式一区切りついたら見ます…！バーフバリ！バーフバ [[http://hirono2014sk.blogspot.com/2018/02/uncothe2nd_85.html>>http://hirono2014sk.blogspot.com/2018/02/uncothe2nd_85.html]]
+
+ 2018年02月13日08時31分の登録： REGEXP：”オリンピック”／落合洋司 Yoji Ochiai（@yjochi）の検索（2009-08-08〜2018-02-11／2018年02月13日08時31分の記録112件） [[http://hirono2014sk.blogspot.com/2018/02/regexp-yoji-ochiaiyjochi2009-08-082018.html>>http://hirono2014sk.blogspot.com/2018/02/regexp-yoji-ochiaiyjochi2009-08-082018.html]]
+
+ 2018年02月13日08時35分の登録： REGEXP：”オリンピック”／深澤諭史（@fukazawas）の検索（2013-07-07〜2018-02-10／2018年02月13日08時35分の記録93件） [[http://hirono2014sk.blogspot.com/2018/02/regexpfukazawas2013-07-072018-02.html>>http://hirono2014sk.blogspot.com/2018/02/regexpfukazawas2013-07-072018-02.html]]
+
+ 2018年02月14日11時24分の登録： ＼Shoko Egawa　@amneris84＼しかし、オリンピックのたびに、注目選手の《亡き○○（父母、祖父母、叔父叔母、友、師など）への思い》みたいな記事で社会面を作 [[http://hirono2014sk.blogspot.com/2018/02/shoko-egawaamneris84_42.html>>http://hirono2014sk.blogspot.com/2018/02/shoko-egawaamneris84_42.html]]
+
+ 2018年02月19日00時56分の登録： ＼モトケン　@motoken_tw＼オリンピックのメダリストと日本という国家の繋がりを断ち切ろうと考えている人がいるけど、それを徹底するとオリンピックの運営の基本から見直 [[http://hirono2014sk.blogspot.com/2018/02/motokentw_59.html>>http://hirono2014sk.blogspot.com/2018/02/motokentw_59.html]]
+
+ 2018年02月23日02時11分の登録： ＼小倉秀夫　@Hideo_Ogura＼女子フィギュアスケートがフェミニストさんたちのバッシングにあってオリンピックの公式競技から外れるまでに後何年かかるだろうか。 [[http://hirono2014sk.blogspot.com/2018/02/hideoogura_23.html>>http://hirono2014sk.blogspot.com/2018/02/hideoogura_23.html]]
+
+ 2018年03月30日22時25分の登録： ＼うのじ@マヒシュマティ　@un_co_the2nd＼1964年の東京オリンピックの経済規模で出場選手もみんなアマチュアで、商業主義的色彩の薄い大会だったら、ボランティア [[http://hirono2014sk.blogspot.com/2018/03/uncothe2nd1964.html>>http://hirono2014sk.blogspot.com/2018/03/uncothe2nd1964.html]]
+
+ 2018年04月09日14時56分の登録： REGEXP：”オリンピック”／深澤諭史（@fukazawas）の検索（2013-07-07〜2018-04-05／2018年04月09日14時56分の記録107件） [[http://hirono2014sk.blogspot.com/2018/04/regexpfukazawas2013-07-072018-04.html>>http://hirono2014sk.blogspot.com/2018/04/regexpfukazawas2013-07-072018-04.html]]
+
+ 2018年06月16日09時32分の登録： ＼いわぽん　@yiwapon＼東京オリンピックは阿鼻叫喚になる予感しかしないので、３０年に札幌に冬季オリンピックを誘致している連中がそれ見てどう思うかと心配している。 [[http://hirono2014sk.blogspot.com/2018/06/yiwapon_16.html>>http://hirono2014sk.blogspot.com/2018/06/yiwapon_16.html]]
+
+ 2018年07月27日21時02分の登録： ＼高橋雄一郎　@kamatatylaw＼オリンピックは所詮商業イベントで、広告代理店や関連業界、建設会社や旅行業界や宿泊施設ががっつり儲けるわけだから、学生を動員するのは [[http://hirono2014sk.blogspot.com/2018/07/kamatatylaw_27.html>>http://hirono2014sk.blogspot.com/2018/07/kamatatylaw_27.html]]
+
+
+** 数日前に見つけ気になっていた「台風で休業。使用者が有休消化させるのはアリか(渡辺輝人)」という渡辺輝人弁護士の記事
+
+ [link:] » 奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono_hideki)/「渡辺輝人」の検索結果 - Twilog https://t.co/G5CnRUw9BH
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:17／2018-09-04 15:33 URL： https://twitter.com/kk_hirono/status/1038023454836969472 https://twitter.com/hirono_hideki/status/1036864789803233280
+ &twitter(1038023454836969472){theme:light}
+ > 台風で休業。使用者が有休消化させるのはアリか(渡辺輝人) - 個人 - Yahoo!ニュース https://t.co/OvIR94oz4O
+ ▷▷▷
+
+ [link:] » 奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono_hideki)/2018年09月04日 - Twilog https://t.co/ZbbsOMPONf
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:17／2018-09-04 23:31 URL： https://twitter.com/kk_hirono/status/1038023562752212992 https://twitter.com/hirono_hideki/status/1036985190256525315
+ &twitter(1038023562752212992){theme:light}
+ > 刑事弁護人によるペットの餌やり問題 : 弁護士 深澤諭史のブログ https://t.co/lWkRSAVNBY
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:18／2018-09-04 23:24 URL： https://twitter.com/kk_hirono/status/1038023617953460224 https://twitter.com/hirono_hideki/status/1036983344779550720
+ &twitter(1038023617953460224){theme:light}
+ > 裁判所に出廷しなかった被告　自殺の疑い（テレビ新広島） - Yahoo!ニュース https://t.co/A88G2bQO3u
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:18／2018-09-04 23:06 URL： https://twitter.com/kk_hirono/status/1038023668851343360 https://twitter.com/hirono_hideki/status/1036978742281687042
+ &twitter(1038023668851343360){theme:light}
+ > １０月期のドラマは「弁護士」が大人気　織田裕二と鈴木保奈美が月９に／芸能ショナイ業務話 - 芸能社会 - https://t.co/M6hh8hNsyx（サンスポ） https://t.co/5szhmTVbQZ
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:18／2018-09-04 21:42 URL： https://twitter.com/kk_hirono/status/1038023725226975232 https://twitter.com/hirono_hideki/status/1036957753644744705
+ &twitter(1038023725226975232){theme:light}
+ > 能登町３００戸停電というテレビの台風情報。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜noto_town（能登町情報(準公式bot)） 日時：2018-09-07 20:18／2018-09-04 14:57 URL： https://twitter.com/kk_hirono/status/1038023801127108608 https://twitter.com/noto_town/status/1036855638381355008
+ &twitter(1038023801127108608){theme:light}
+ > 台風２１号接近に伴い自主避難所を開設しております: 能登町災害対策本部からのお知らせです。 台風２１号が接近しており、強い風や大雨による被害が予想されます。 自主避難所として 秋吉公民館 内浦庁舎２階 白丸コミュニティ施設 不動寺… https://t.co/j6ndlOk5Bp
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜jazietar（jazieta） 日時：2018-09-07 20:19／2018-09-04 09:49 URL： https://twitter.com/kk_hirono/status/1038023845666418688 https://twitter.com/jazietar/status/1036778314004803584
+ &twitter(1038023845666418688){theme:light}
+ > 能登町 イノシシ捕獲数急増 奥能登で大量繁殖か 電気柵活用で昨年の3.7倍　 \n   \n  石川県能登町全域で本年度に入り、有害鳥獣の一つであるイノシシの捕獲数が急増している。奥能登地域で生息個体数が増加していることが要因の一つとみられる。… https://t.co/XOB43lnb29
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜r_arashiyama（レストラン嵐山） 日時：2018-09-07 20:19／2018-09-04 15:11 URL： https://twitter.com/kk_hirono/status/1038023929921646592 https://twitter.com/r_arashiyama/status/1036859343495254019
+ &twitter(1038023929921646592){theme:light}
+ > 渡月橋の欄干が倒れてしまっています・・・。京都も大変なことになっています。#台風21号 https://t.co/C80l0zH7Wp
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:19／2018-09-04 10:33 URL： https://twitter.com/kk_hirono/status/1038024036008091648 https://twitter.com/hirono_hideki/status/1036789236530262016
+ &twitter(1038024036008091648){theme:light}
+ > 恵庭OL殺人事件 大越美奈子さん16年の服役後初めて公の場に「真実を見抜く裁判官がいることを信じる」（北海道ニュースUHB） - Yahoo!ニュース https://t.co/I01qZ1ET1L
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:20／2018-09-04 10:16 URL： https://twitter.com/kk_hirono/status/1038024108187897861 https://twitter.com/hirono_hideki/status/1036785097460969472
+ &twitter(1038024108187897861){theme:light}
+ > 岡口基一 - Wikiwand https://t.co/c16R1S5F4V
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:20／2018-09-04 09:47 URL： https://twitter.com/kk_hirono/status/1038024166786588672 https://twitter.com/hirono_hideki/status/1036777669138862081
+ &twitter(1038024166786588672){theme:light}
+ > 金沢大学学術情報リポジトリKURA https://t.co/niarzW6XJ3 \n   金沢大学フィールド文化学 13 ; 鳳珠郡能登町柳田東部地区 \n  鏡味 治也 \n   ( 金沢大学研究者情報: 20224339 , 研究者番号: 20224339 )
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語） 日時：2018-09-07 20:20／2018-09-04 09:45 URL： https://twitter.com/kk_hirono/status/1038024203625160704 https://twitter.com/hirono_hideki/status/1036777323037519872
+ &twitter(1038024203625160704){theme:light}
+ > 金沢大学学術情報リポジトリKURA https://t.co/niarzW6XJ3 \n  神社祭礼
+ ▷▷▷
+
+ &color(red){＞＞　引用開始：}
+ > 今日（２０１８年９月４日）は、筆者は、１４時から京都地方裁判所で原告３３００人を擁する大飯原発差し止め請求訴訟の口頭弁論期日の予定でしたが、裁判所の判断で期日指定が取り消しとなりました。今日の関西は、最大級の台風直撃を前にして、学校などは臨時休校になる例も多く、朝から交通機関もすいており、それも昼からは全面的にストップする例も多いようで、全体的に臨時休業といった雰囲気が流れております。~~
+ > ~~
+ > 　台風だということで、前日から早々に公共交通機関の停止が予告され、粛々と実行される、というのは過去にそれほど記憶がありません。日本社会が「２４時間戦えますか」から、安全重視の社会に移行しつつあるのかな、などと考えるのは早計でしょうか。~~
+ > ~~
+ > 　社会が安全重視の思考にシフトし、会社などの事業所が無理をせずに休業としているのなら、それは良いことだと思うのですが、もう一方で、務め人にとっては、休業で賃金が支払われなければ死活問題となります。この辺、法律がどうなっているのか。休業と賃金の関係を簡単にまとめてみました。~~
+ ［source：］台風で休業。使用者が有休消化させるのはアリか(渡辺輝人) - 個人 - Yahoo!ニュース https://news.yahoo.co.jp/byline/watanabeteruhito/20180904-00095651/
+ &color(red){＜＜　：引用終了}
+
+ 　「9/4(火) 14:22」が渡辺輝人弁護士の記事の投稿時刻のようです。記憶がはっきりしていなかったのですが、台風２１号が日本列島を縦断した当日の投稿記事だと確認しました。石川県でもほぼ予想通りに、１８時過ぎから暴風となり、風がおさまったのは１９時４０分ぐらいだったと思います。
+
+ 　台風２１号では、京都の渡月橋で橋の欄干が倒れたとニュースになっていました。さほど大きくも見えない欄干が倒れるぐらいならその前に橋がめくれ上がって吹き飛びそうにも思いましたが、よほど頑丈な建築となっていたのか、それでも不思議な光景をテレビで見ていました。
+
+ &color(red){＞＞　引用開始：}
+ > そして、普段多くの人が行き交う渡月橋は、欄干が、およそ100メートルにわたって、歩道側に倒れてしまっている。~~
+ > ~~
+ > 京都市内は、4日午後3時ごろに急激に風が強くなったが、そのころに、この欄干が倒れたとみられていて、当時、観光客はまばらだったということで、けが人の情報は入っていない。~~
+ > ~~
+ > このあたりは、風を遮るものが全くないため、強風の負荷が、欄干に全てかかったとみられる。~~
+ > ~~
+ > (関西テレビ)~~
+ ［source：］京都・渡月橋の欄干、約100mにわたり倒れる　台風21号 - FNN.jpプライムオンライン https://www.fnn.jp/posts/00400188CX
+ &color(red){＜＜　：引用終了}
+
+ 　Googleの検索結果では３日前として表示されていました。台風２１号からまだ３日ということのようですが、その翌日だったと思われる日の朝のニュースには、北海道での大きな地震で、それも見たことのないような被害の映像がテレビに流れていました。
+
+ 　少しでしたが、台風２１号では家に少し被害が出ました。表の格子戸が一枚外れガラスが割れたのですが、その時間、予想されていた大雨が降らなかったのが幸いでした。風が少しおさまったタイミングで戸をつけ直すことも出来ました。
+
+ 　台風２１号では、大阪の被害があまりにも大きかったので、避難勧告が出ていた避難所に行くことも考えたのですが、スマホの充電が出来ていなかったことで、出遅れ、風も強くなったので行くのをやめました。出掛けていれば、少なくとも戸はばらばらに壊れていたことでしょう。
+
+*** 登録されていない渡辺輝人弁護士と深澤諭史弁護士のTwilog
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜s_hirono（非常上告-最高検察庁御中_ツイッター） 日時：2018-09-07 21:09／2018-09-07 21:05 URL： https://twitter.com/kk_hirono/status/1038036592487628800 https://twitter.com/s_hirono/status/1038035557828321283
+ &twitter(1038036592487628800){theme:light}
+ > 2018-09-07-210152_渡辺輝人（@nabeteru1Q78）　-　Twilog.jpg https://t.co/68YFm7LerE
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜s_hirono（非常上告-最高検察庁御中_ツイッター） 日時：2018-09-07 21:09／2018-09-07 21:05 URL： https://twitter.com/kk_hirono/status/1038036607973056512 https://twitter.com/s_hirono/status/1038035592569794561
+ &twitter(1038036607973056512){theme:light}
+ > 2018-09-07-210302_渡辺輝人（@nabeteru1Q78）　-　Twilog.jpg https://t.co/KTOwXZ80DF
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜s_hirono（非常上告-最高検察庁御中_ツイッター） 日時：2018-09-07 21:09／2018-09-07 21:06 URL： https://twitter.com/kk_hirono/status/1038036629670133761 https://twitter.com/s_hirono/status/1038035819158597632
+ &twitter(1038036629670133761){theme:light}
+ > 2018-09-07-210548_深澤諭史（@fukazawas）　-　Twilog.jpg https://t.co/su1uyaTiXL
+ ▷▷▷
+
+ [link:] » 深澤諭史(@fukazawas) - Twilog https://t.co/eqFY1AUJKq
+
+ [link:] » 渡辺輝人(@nabeteru1Q78) - Twilog https://t.co/rjyJaPbYHm
+
+ 　深澤諭史弁護士のTwilogが登録されていないことは、数年前から繰り返し確認していますが、渡辺輝人弁護士も前にも確認はしていたような気はします。Twilogのサービスの存在をしらないとは考えにくいのですが、あえて利用しない理由は前から気になっています。
+
+*** 「2018-09-04 09:36から193件：最新2018-09-07 20:42という範囲（3日11時間6分）の取得」という渡辺輝人弁護士のツイートの記録
+
+ 　登録されていない渡辺輝人弁護士のTwilogでは、最新１００件までという取得の制限で、次の９月５日のツイートまでしか取得が出来ませんでした。以前は最新２００件となっていたと思いますが、少なくとも１年以上前から１００件になっていると思います。
+
+ ▶ ツイート％nabeteru1Q78（渡辺輝人）％2018/09/05 18:15％ [[https://twitter.com/nabeteru1Q78/status/1037268022845571072>>https://twitter.com/nabeteru1Q78/status/1037268022845571072]]  
+ &twitter(1037268022845571072){theme:light}  
+ > 今回の労災は、国が法律上の因果関係を認めたから、労災認定されてるわけです。「それは科学的な因果関係とは違う」と論難することに（それこそ）ただちに意味はありません。なぜなら、国の施策も、裁判所も、法律上の因果関係で動いていくから。 https://t.co/9WWTFYFFdR~~  
+ ▶
+
+ 　台風２１号が渡辺輝人弁護士の住む京都市を通過した９月４日の渡辺輝人弁護士のツイートが気になったのですが、Twilogでは取得ができなかったので、まとめ記事を作成する方法で取得を試みました。結果は４日９時３６分投稿のツイートまで遡り取得し記録できたことになります。
+
+ 　Twilogの登録がないことで手間が掛かりましたが、思わぬ発見もありました。今のところ渡辺輝人弁護士のツイートは、告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中(@kk_hirono)のアカウントでリツイートが出来ると思います。
+
+ 　貴重な資料となりうるものなので、ツイートのまとめ記事から主だったものをピックアップでリツイートしておきたいと思います。
+
+ [link:] » 奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中: ＼渡辺輝人　@nabeteru1Q78＼弁護士や、裁判所や、法学者が、科学と法律の関係について、どれだけ悩んで社会的なルールを確立してきたのか、興味も無いし、敬意も払… https://t.co/bzQZhv7jH5
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:37／2018-09-07 19:30 URL： https://twitter.com/kk_hirono/status/1038043675001901056 https://twitter.com/nabeteru1Q78/status/1038011575678824448
+ &twitter(1038043675001901056){theme:light}
+ > 世耕、本当に口だけ番長だよね。 https://t.co/nL7M7u9iMp
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:38／2018-09-07 19:18 URL： https://twitter.com/kk_hirono/status/1038043875741294594 https://twitter.com/nabeteru1Q78/status/1038008613426454530
+ &twitter(1038043875741294594){theme:light}
+ > いや、問題は、ツイッターの発言が裁判官としての発言と取られたら何でダメなんだって事だよ。裁判官は行政や国会の方針に従う職務ではない。個人的な見解を披瀝するのはむしろ当然。 / “裁判官のツイッター、どこまでＯＫ？　最高裁が判断へ…” https://t.co/k74q2aDidN
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:38／2018-09-07 18:57 URL： https://twitter.com/kk_hirono/status/1038043950207053824 https://twitter.com/nabeteru1Q78/status/1038003249490477056
+ &twitter(1038043950207053824){theme:light}
+ > スポーツの世界では、この間、専制君主みたいな指導者が、若い選手たちの告発によって失脚する事態が続いており、希望を感じる。スポーツ選手が指導者に支配される事態は恐らく昔からあったと思うが、時代が変わりつつある。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:39／2018-09-07 18:06 URL： https://twitter.com/kk_hirono/status/1038044065332252674 https://twitter.com/nabeteru1Q78/status/1037990478937874433
+ &twitter(1038044065332252674){theme:light}
+ > 現実に発生した事実関係から、都合の良い部分だけ置き換えた事実を仮定して、原発は必要だ、というのは、割と反則技なんじゃないだろうか。逆に都合悪く事実を置き換えると、泊フル稼動、付近で今回の地震発生、フル出力で緊急停止＋電源崩壊、というかなり悪夢っぽいシナリオも描けるのだが。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:40／2018-09-07 15:58 URL： https://twitter.com/kk_hirono/status/1038044288595062785 https://twitter.com/nabeteru1Q78/status/1037958160621826048
+ &twitter(1038044288595062785){theme:light}
+ > マスコミは、情報の正確性を期するために、誰が発言したのかは触れますからね。ましてそれが総理大臣であれば見出しになる。その習性を狙って、自分の担当でないことまで自分が話して、とにかくニュースの文字列やニュース報道に添えられる写真に入… https://t.co/Y0W7HIhDv4
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:40／2018-09-07 15:40 URL： https://twitter.com/kk_hirono/status/1038044420128432128 https://twitter.com/nabeteru1Q78/status/1037953798138814464
+ &twitter(1038044420128432128){theme:light}
+ > 見出しだけ見ると、安倍首相が地震でどうにかなったのかと思っちゃうレベル。全く要らない情報。どうせほら吹きでも責任取らないし。 / “北海道の地震 16人死亡 26人不明 安倍首相 | NHKニュース” https://t.co/03COb05yp2
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:43／2018-09-06 14:18 URL： https://twitter.com/kk_hirono/status/1038045085206634498 https://twitter.com/nabeteru1Q78/status/1037570662498414592
+ &twitter(1038045085206634498){theme:light}
+ > 同窓生なのでシェア。 / “363000c” https://t.co/2tNEqx8UYI
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:45／2018-09-06 12:24 URL： https://twitter.com/kk_hirono/status/1038045542058606593 https://twitter.com/nabeteru1Q78/status/1037542147149332481
+ &twitter(1038045542058606593){theme:light}
+ > 責任者である政治家が、こういう非常時に、「私は数時間以内に復旧させるように指示しただけで、実際に復旧するかは分からない」などというデタラメな発言を許される訳が無い。 \n  https://t.co/dq5l1aceZi
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:45／2018-09-06 12:21 URL： https://twitter.com/kk_hirono/status/1038045621385478146 https://twitter.com/nabeteru1Q78/status/1037541188855717888
+ &twitter(1038045621385478146){theme:light}
+ > 私は記者会見の映像を見ていたので発言は把握してますよ。デマというのは、この世耕弘成の発言のように、実際には何の根拠もないのに、数時間で電力が復旧するようなことを言うことですね。 https://t.co/dq5l1aceZi
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:46／2018-09-06 12:11 URL： https://twitter.com/kk_hirono/status/1038045781343662080 https://twitter.com/nabeteru1Q78/status/1037538732629405696
+ &twitter(1038045781343662080){theme:light}
+ > 他の方にも言ったが、電通過労死事件の青年の死亡について、過労と死亡の間の科学的な因果関係など、証明されていないし、その必要もない。しかし法律上の因果関係は証明されている。あなたがやっているのは、そういう状況で「電通を悪い企業だとい… https://t.co/rXIh708iNH
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:46／2018-09-06 12:06 URL： https://twitter.com/kk_hirono/status/1038045891624488960 https://twitter.com/nabeteru1Q78/status/1037537418704957440
+ &twitter(1038045891624488960){theme:light}
+ > 実際に放射線被ばくとの因果関係が認められて労災になった方（の遺族）に失礼だと思わないのかね。この言いぐさ。 https://t.co/0BBeTpi7U6
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:47／2018-09-06 12:03 URL： https://twitter.com/kk_hirono/status/1038046076161277953 https://twitter.com/nabeteru1Q78/status/1037536833964363781
+ &twitter(1038046076161277953){theme:light}
+ > 飛行場の再開って、総理大臣が決めることじゃないよね。これも世耕と一緒。総理大臣が適当なことを抜かすな。 / 他30コメント https://t.co/fWdHYSiO19 “関西空港　国内線あす中に再開　安倍首相が明らかに” https://t.co/lY18KFXW85
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:47／2018-09-06 11:59 URL： https://twitter.com/kk_hirono/status/1038046170973499393 https://twitter.com/nabeteru1Q78/status/1037535832251412480
+ &twitter(1038046170973499393){theme:light}
+ > もし、実際に数時間で電力が復旧していれば、実際に頑張ったのは北電やその協力企業の従業員たちなのに、世耕弘成の手柄であるかのように扱われ、復旧しなければ、世耕は遁走するわけだ。それは許されないから、ホラ吹いた世耕の政治責任は追及され… https://t.co/RaijBHtXCu
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:49／2018-09-06 09:46 URL： https://twitter.com/kk_hirono/status/1038046538323222529 https://twitter.com/nabeteru1Q78/status/1037502221464756225
+ &twitter(1038046538323222529){theme:light}
+ > 「インパール作戦で亡くなった人がいないなんて言っている人は一人としていない。ただ、彼らは科学的には、栄養失調により餓死したのであって、戦争によって死んだのではないのだ。」 https://t.co/pQwRmNSqLE
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:49／2018-09-05 22:40 URL： https://twitter.com/kk_hirono/status/1038046676789809153 https://twitter.com/nabeteru1Q78/status/1037334724749000706
+ &twitter(1038046676789809153){theme:light}
+ > デマ？　あなた方の手にかかると、労働行政も、最高裁判所も、デマ拡散装置に過ぎないんだろうな。 https://t.co/DetCTWjxFV
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:50／2018-09-05 19:19 URL： https://twitter.com/kk_hirono/status/1038046745010221058 https://twitter.com/nabeteru1Q78/status/1037284139123130369
+ &twitter(1038046745010221058){theme:light}
+ > 松本は、あれやれ、これやれ、と言ってた立場ですからね。松本の行為とサリン事件の被害者の死亡の間に、科学的な因果関係などないし、証明もされてないですね。 https://t.co/vWQRekCB00
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:50／2018-09-05 19:11 URL： https://twitter.com/kk_hirono/status/1038046876983943169 https://twitter.com/nabeteru1Q78/status/1037282069666099201
+ &twitter(1038046876983943169){theme:light}
+ > で、晴れてワタミは免罪される訳ですね。ワタミの殺人的な労務管理の因果関係がある結果として人が死んだなどという証拠はないんだ！と。 https://t.co/j04gMkzGGZ
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:51／2018-09-05 18:53 URL： https://twitter.com/kk_hirono/status/1038047000124506112 https://twitter.com/nabeteru1Q78/status/1037277418652725248
+ &twitter(1038047000124506112){theme:light}
+ > 弁護士や、裁判所や、法学者が、科学と法律の関係について、どれだけ悩んで社会的なルールを確立してきたのか、興味も無いし、敬意も払わないし、自分がそういうルールの上で生活していることも理解しないのだろう。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:51／2018-09-05 18:47 URL： https://twitter.com/kk_hirono/status/1038047107582554112 https://twitter.com/nabeteru1Q78/status/1037276112756207616
+ &twitter(1038047107582554112){theme:light}
+ > 電通は、人殺し企業とか言われてるわけで、あなたの言い分を前提にするなら、科学的な因果関係が証明されてないのに、そんな謂われを受けるのは、風評被害でしょう。 https://t.co/5dttWlbd8q
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:51／2018-09-05 18:40 URL： https://twitter.com/kk_hirono/status/1038047196082405376 https://twitter.com/nabeteru1Q78/status/1037274326255292416
+ &twitter(1038047196082405376){theme:light}
+ > それは、労働行政も、最高裁判所も、法律ごっこのおつむが勘違いだ－、という見解ですかね。（微苦笑） https://t.co/kdBEOEE0BF
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:52／2018-09-05 18:38 URL： https://twitter.com/kk_hirono/status/1038047299622952966 https://twitter.com/nabeteru1Q78/status/1037273790181330945
+ &twitter(1038047299622952966){theme:light}
+ > 高橋祭さんにしろ、１９９０年の電通事件の青年にしろ、死亡と過労の間の科学的な因果関係など証明されていません。その必要もない。証明されているのは、過労とうつ病発症の法律上の因果関係と、うつ病と自死に至った結果の法律上の因果関係。でも… https://t.co/MlwJ9aRG9j
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:52／2018-09-05 18:27 URL： https://twitter.com/kk_hirono/status/1038047414064574465 https://twitter.com/nabeteru1Q78/status/1037271104790790145
+ &twitter(1038047414064574465){theme:light}
+ > ものごとを法律とそうでない世界で切り分ける黄金の線を屏風の中から出してみて下され。逆でしょ。科学的な因果関係を一点の曇りなくできなくても、危ないものは危ない、という考え方で社会が回ってるのだから。あなたの言い分を前提にすれば、電通… https://t.co/JQc3cttdfu
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:53／2018-09-05 18:15 URL： https://twitter.com/kk_hirono/status/1038047505026506752 https://twitter.com/nabeteru1Q78/status/1037268022845571072
+ &twitter(1038047505026506752){theme:light}
+ > 今回の労災は、国が法律上の因果関係を認めたから、労災認定されてるわけです。「それは科学的な因果関係とは違う」と論難することに（それこそ）ただちに意味はありません。なぜなら、国の施策も、裁判所も、法律上の因果関係で動いていくから。 https://t.co/9WWTFYFFdR
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:53／2018-09-05 18:08 URL： https://twitter.com/kk_hirono/status/1038047573569724416 https://twitter.com/nabeteru1Q78/status/1037266117260062720
+ &twitter(1038047573569724416){theme:light}
+ > インパール作戦で死んだ日本兵たちのほとんどは餓死・病死だと思われるが、それについて「戦争とは関係ない。餓死しただけだ」ということに、私はあまり意味を感じない。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:53／2018-09-05 18:00 URL： https://twitter.com/kk_hirono/status/1038047729253941249 https://twitter.com/nabeteru1Q78/status/1037264145685536769
+ &twitter(1038047729253941249){theme:light}
+ > 労災を認められたということは、国が被ばくと発症の相当因果関係を認めたということですよ。いい加減でも何でもない。私は、労災はそれなりに専門的にやってる弁護士で、京都脱原発弁護団の事務局長。素人だと思って、舐めてかかってはアカンですよ。 https://t.co/9aX3w61N4h
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:54／2018-09-05 17:24 URL： https://twitter.com/kk_hirono/status/1038047826251411458 https://twitter.com/nabeteru1Q78/status/1037255186668896257
+ &twitter(1038047826251411458){theme:light}
+ > 古くは水俣病、新しいところでは建設アスベストなど、様々な公害病／職業病も、救済はされないだろう。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:54／2018-09-05 17:23 URL： https://twitter.com/kk_hirono/status/1038047901312638979 https://twitter.com/nabeteru1Q78/status/1037254816181800960
+ &twitter(1038047901312638979){theme:light}
+ > 科学的な因果関係を政府が認めない限り、政府は因果関係を認めていないのだ、と言い始めると、この世に過労死というものはほとんど存在しなくなる。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:55／2018-09-05 17:12 URL： https://twitter.com/kk_hirono/status/1038048001573318656 https://twitter.com/nabeteru1Q78/status/1037252003645116416
+ &twitter(1038048001573318656){theme:light}
+ > 労災では「業務起因性」という言葉が使われるが、業務起因性とは、業務と傷病の発症の間の相当因果関係のことである、とされている。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:55／2018-09-05 17:11 URL： https://twitter.com/kk_hirono/status/1038048091553681408 https://twitter.com/nabeteru1Q78/status/1037251813391523841
+ &twitter(1038048091553681408){theme:light}
+ > その判定は、通常人が疑を差し挟まない程度に真実性の確信を持ちうるものであることを必要とし、かつ、それで足りるものである。」としている。この考え方で、労災も、医療過誤も、交通事故に関連する諸障害も、因果関係を判断している。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:55／2018-09-05 17:11 URL： https://twitter.com/kk_hirono/status/1038048183358636032 https://twitter.com/nabeteru1Q78/status/1037251811952881665
+ &twitter(1038048183358636032){theme:light}
+ > 最高裁は「訴訟上の因果関係の立証は、一点の疑義も許されない自然科学的証明ではなく、経験則に照らして全証拠を総合検討し、特定の事実が特定の結果発生を招来した関係を是認しうる高度の蓋然性を証明することであり、・・・
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:56／2018-09-05 17:09 URL： https://twitter.com/kk_hirono/status/1038048429992075266 https://twitter.com/nabeteru1Q78/status/1037251374856032256
+ &twitter(1038048429992075266){theme:light}
+ > いや、被ばくと発症の相当因果関係を認めたから、労災が認められているんですよ。相当因果関係は、確かに科学的な因果関係の立証ではありませんが、法律的には因果関係があります。国は因果関係を認めたことになります。 https://t.co/mctGtRSFzc
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:59／2018-09-05 10:50 URL： https://twitter.com/kk_hirono/status/1038049096362156033 https://twitter.com/nabeteru1Q78/status/1037155994239819776
+ &twitter(1038049096362156033){theme:light}
+ > 昨日は、上手く嵌まった典型例だから言いやすいが、「台風の日に出勤を命じるのはブラック企業」とは一概には言えない部分もあるのだ。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 21:59／2018-09-05 10:49 URL： https://twitter.com/kk_hirono/status/1038049175227625474 https://twitter.com/nabeteru1Q78/status/1037155705029939200
+ &twitter(1038049175227625474){theme:light}
+ > こういう天候の場合、有給で自宅待機できるならそれに越したことはないだろう。しかし、その日その日に働くか否かが翌月の生活費に大きくかかわってくる人も沢山いるわけで、そういう人たちは、「行き帰りが安全で、その日のうちに帰れるならむしろ働きたい」と思ったりもする。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:00／2018-09-05 10:45 URL： https://twitter.com/kk_hirono/status/1038049300205301760 https://twitter.com/nabeteru1Q78/status/1037154838012776448
+ &twitter(1038049300205301760){theme:light}
+ > 昨日の台風は強力＋足が速かったので、典型だが、午前中の出勤時間帯は何事もなく平和に出勤できる天候、昼の勤務時間帯は命にかかわる天候、夕方以降、公共交通機関も結構動いている、みたいな感じだった。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:00／2018-09-05 10:43 URL： https://twitter.com/kk_hirono/status/1038049427573760002 https://twitter.com/nabeteru1Q78/status/1037154328283213824
+ &twitter(1038049427573760002){theme:light}
+ > 昨日書いたこの記事。人によって反響がバラバラで興味深かった。（１）よく書いてくれた、（２）出社させるのはブラック企業、（３）賃金なんか関係なく休むべき、（４）うちは有給で特別休暇・・等々。多分、その人の待遇を反映している。 \n  https://t.co/4vDd47KgNo
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:01／2018-09-05 10:34 URL： https://twitter.com/kk_hirono/status/1038049582301626371 https://twitter.com/nabeteru1Q78/status/1037152003284119553
+ &twitter(1038049582301626371){theme:light}
+ > 一企業が行政を無視するんだってさ。日本も立派な未開の国になってきたじゃないか。 / 他9コメント https://t.co/vaGvaYKhz5 “ＪＲ東海：リニア中央新幹線　静岡県の同意なく着工を検討 - 毎日新聞” https://t.co/3b3cjmqD8a
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:02／2018-09-05 09:27 URL： https://twitter.com/kk_hirono/status/1038049864540598272 https://twitter.com/nabeteru1Q78/status/1037135006659792898
+ &twitter(1038049864540598272){theme:light}
+ > 世耕弘成・エアコン設置及びコンビニ物資輸送特命大臣の有り難いお言葉である。 \n  https://t.co/ADCI7YqrJR
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:03／2018-09-04 17:09 URL： https://twitter.com/kk_hirono/status/1038050094845636608 https://twitter.com/nabeteru1Q78/status/1036888961753407489
+ &twitter(1038050094845636608){theme:light}
+ > 言ってる。私の不徳を皆さんに被って頂いた、と。 https://t.co/VU8XoPKNFg
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:03／2018-09-04 17:03 URL： https://twitter.com/kk_hirono/status/1038050202693787649 https://twitter.com/nabeteru1Q78/status/1036887345281159168
+ &twitter(1038050202693787649){theme:light}
+ > @clearness13 書いたので、どうぞー \n  https://t.co/4vDd47KgNo
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:04／2018-09-04 14:56 URL： https://twitter.com/kk_hirono/status/1038050493065379840 https://twitter.com/nabeteru1Q78/status/1036855451403448320
+ &twitter(1038050493065379840){theme:light}
+ > 台風の足が速い。もうピークは去った印象。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:05／2018-09-04 14:34 URL： https://twitter.com/kk_hirono/status/1038050627329253376 https://twitter.com/nabeteru1Q78/status/1036849846097854464
+ &twitter(1038050627329253376){theme:light}
+ > 詳細を、Ｙａｈｏｏ！で書きました。 \n  https://t.co/4vDd47KgNo
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:05／2018-09-04 14:23 URL： https://twitter.com/kk_hirono/status/1038050733378043906 https://twitter.com/nabeteru1Q78/status/1036847237505081344
+ &twitter(1038050733378043906){theme:light}
+ > 割と反応が多いようなので、書きました。 \n  https://t.co/4vDd47KgNo
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:06／2018-09-04 11:44 URL： https://twitter.com/kk_hirono/status/1038050823463350276 https://twitter.com/nabeteru1Q78/status/1036807175820046336
+ &twitter(1038050823463350276){theme:light}
+ > ある種の鉄道ファンは、経済原理にまかせて滅び行くものを、滅び行かせる業を推進する側から哀れむ、みたいな立ち位置なのかな？
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:07／2018-09-04 10:56 URL： https://twitter.com/kk_hirono/status/1038051230168174594 https://twitter.com/nabeteru1Q78/status/1036794987155865600
+ &twitter(1038051230168174594){theme:light}
+ > 台風で事業所を臨時休業する場合に、有給休暇を消化させるのは違法ですよ。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:08／2018-09-04 10:43 URL： https://twitter.com/kk_hirono/status/1038051482652704769 https://twitter.com/nabeteru1Q78/status/1036791879939940352
+ &twitter(1038051482652704769){theme:light}
+ > 日本人、休もうと思えば、休めるじゃん。槍が降っても出社、みたいな慣行が現在進行形で変わりつつあるのかな。（もっとも、私は、今日予定されていた大飯原発差し止め訴訟の期日を、槍が降ってもやって欲しい、と裁判所に言った。結局期日取り消しになったが。）
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:09／2018-09-04 09:44 URL： https://twitter.com/kk_hirono/status/1038051586725969920 https://twitter.com/nabeteru1Q78/status/1036777076454346753
+ &twitter(1038051586725969920){theme:light}
+ > @ssk_ryo しかし、日本のツイッターは、この種のヘイトスピーチには本当に鈍感、というか、泳がせているとしか思えないレベルで放置しますね。ＹｏｕＴｕｂｅとの対応の差があまりに大きい。
+ ▷▷▷
+
+ ▷▷▷
+ RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nabeteru1Q78（渡辺輝人） 日時：2018-09-07 22:10／2018-09-04 09:36 URL： https://twitter.com/kk_hirono/status/1038051780347621378 https://twitter.com/nabeteru1Q78/status/1036775009925050369
+ &twitter(1038051780347621378){theme:light}
+ > 卑怯者、敵に背を向けるのか、という批判が相当堪えたようだな。まずはよし。 / “沖縄県知事選：佐喜真氏、記者クラブの討論会に一転参加へ　「政策訴える絶好の機会」 | 沖縄タイムス＋プラス　ニュース | 沖縄タイムス＋プラス” https://t.co/DnaucfK7Om
+ ▷▷▷
+
+ 　3日11時間6分という範囲で、１９３件という渡辺輝人弁護士のツイートでしたが、ざっと目を通すだけでも疲れたし、時間も費消しました。しかし、記録するだけの収穫はあったと思います。
+
+ 　渡辺輝人弁護士のツイートは、モトケンこと矢部善朗弁護士（京都弁護士会）や小倉秀夫弁護士、深澤諭史弁護士に比較して、リツイートの数が多いという特徴もあります。賛否はあるのでしょうが、影響力もそれなりに考えられるTwitterの弁護士アカウントです。
+
+ 　ざっと見たところ、佐々木亮弁護士（ささきりょう）のツイートのリツイートは見当たりませんでした。三浦義隆弁護士と刑裁サイ太の似たような関係性をかねてより感じてきたところです。将棋で言えば飛車角、寺社における阿吽の像のような関係性です。
+
+
