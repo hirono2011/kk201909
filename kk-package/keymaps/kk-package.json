@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "kk-package:toggle",
+    "f12": "kk-package:copylinetweet",
+    "f9": "kk-package:linecopy"
+  }
+}
