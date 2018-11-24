@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "kk-package:toggle"
+            },
+            {
+              "label": "copylinetweet",
+              "command": "kk-package:copylinetweet"
             }
           ]
         }

@@ -3,12 +3,11 @@
   "main": "./lib/kk-package",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": "kk-package:toggle",
-    "atom-workspace": "kk-package:copylinetweet",
-    "atom-workspace": "kk-package:linecopy"
+    "atom-workspace": "kk-package:getTweet",
+    "atom-workspace": "kk-package:linecopy",
+    "atom-workspace": "kk-package:copylinetweet"
   },
   "repository": "https://github.com/atom/kk-package",
   "license": "MIT",
@@ -16,5 +15,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "prompt": "^1.0.0"
   }
 }
