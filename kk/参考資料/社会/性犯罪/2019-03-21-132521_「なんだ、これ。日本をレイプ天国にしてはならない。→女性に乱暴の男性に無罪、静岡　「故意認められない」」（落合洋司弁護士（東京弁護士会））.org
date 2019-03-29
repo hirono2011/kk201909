@@ -1,0 +1,442 @@
+#+TITLE: "参考資料／社会／性犯罪／「なんだ、これ。日本をレイプ天国にしてはならない。→女性に乱暴の男性に無罪、静岡　「故意認められない」」（落合洋司弁護士（東京弁護士会））"
+#+AUTHOR: 廣野秀樹
+#+EMAIL:  hirono2013k@gmail.com
+#+DATE: 2019-03-21 13:25:21 +0900
+FILE_NAME: 2019-03-21-132521_「なんだ、これ。日本をレイプ天国にしてはならない。→女性に乱暴の男性に無罪、静岡　「故意認められない」」（落合洋司弁護士（東京弁護士会））.org
+CATEGORY: 石川県警察御中,金沢地方検察庁御中
+tags:  落合洋司弁護士（東京弁護士会） 性犯罪
+記事タイトル名の文字数：81　保存ファイル名の文字数：91
+
+#contents
+
+* ＋　落合洋司弁護士のTwitterタイムラインにおける「レイプ被害で声を上げた #伊藤詩織 さんに密着したBBC放送ドキュメンタリー」「特集「日本の性被害」を考える #MeToo」
+  :LOGBOOK:
+  CLOCK: [2019-03-21 木 13:28]--[2019-03-21 木 14:18] =>  0:50
+  :END:
+
+＞＞＞2019-03-21（木曜日）13：28＿［これからの記述範囲の開始時刻］＞＞＞
+
+```
+% cat yjochi_201611161139-201903211109.txt| grep -B 5 -A 10  伊藤詩織 |sed -E 's/(.+)(TWEET：.+)/\1\n＞　\2\n/'
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-21 09:11 URL： https://twitter.com/yjochi/status/1108521387692453888 
+＞　TWEET： 沖縄の基地を固定してしか考えられない、傀儡的発想を転換させるべき。 https://t.co/WLhPaAHdSG  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-21 08:53 URL： https://twitter.com/yjochi/status/1108517067941044224 
+＞　TWEET： テロ寸前の日常←ひどい 笑 https://t.co/ZZkFfQFcIH  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-21 08:45 URL： https://twitter.com/yjochi/status/1108514913503199235 
+＞　TWEET： Android派の人は、iPod touch買って二台持ちしてテザリングで使う手も。 https://t.co/buiqI2SuZM  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-21 08:42 URL： https://twitter.com/yjochi/status/1108514228707549184 
+＞　TWEET： 「ホロコースト」は、アウシュビッツに行く前に読んだ。他も読まねば。 https://t.co/wN3DIAT6T3  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-21 07:52 URL： https://twitter.com/yjochi/status/1108501516078321664 
+＞　TWEET： ＠札幌 https://t.co/hZILeMX08v  
+
+▶RT yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜nicodocs（ニコニコドキュメンタリー） 日時：2019-03-21 07:29／2019-03-20 17:21 URL： https://twitter.com/yjochi/status/1108495715838259200 https://twitter.com/nicodocs/status/1108282429230321664 
+＞　TWEET： レイプ被害で声を上げた #伊藤詩織 さんに密着したBBC放送ドキュメンタリー🎥 "Japan’s Secret Shame"を日本初放送 📺 \n  \n 警察や司法、そして支援体制の欠如など、日本の性被害者をとりまく悲惨な実態が浮き彫りに…… https://t.co/dWXdRu3HVD  
+
+▶RT yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜aws_official（アドベンチャーワールド公式） 日時：2019-03-21 07:27／2019-03-20 14:19 URL： https://twitter.com/yjochi/status/1108495313185075201 https://twitter.com/aws_official/status/1108236658451767297 
+＞　TWEET： 屋内運動場で遊ぶパンダの赤ちゃん「彩浜」。ガラス面まで近づいて皆さまにご挨拶！…と思いましたが、本日は休園日。誰もおらず あれ！？という表情でしょうか？明日からまた皆さまのお越しを心よりお待ちしております！218日齢(3月20日)… https://t.co/JG7CAAi1BT  
+
+▶RT yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜Rascal_tweet（ラスカル（公式）🌽） 日時：2019-03-21 07:27／2019-03-20 15:00 URL： https://twitter.com/yjochi/status/1108495239533072384 https://twitter.com/Rascal_tweet/status/1108246857275330561 
+＞　TWEET： ミャフフ･･･ \n お団子が美味しいミャ～(◆'ڡ'◆) \n  \n #ラスカル https://t.co/XnbllXnwMp  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-21 00:25 URL： https://twitter.com/yjochi/status/1108389016217382915 
+＞　TWEET： 司法の事実認定に、かなり問題がありますね。今更、抵抗しない貞操は保護に値しない、は無いでしょう。考え方がおかしいですよ。 https://t.co/QUwrGlfMHv  
+
+▶RT yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜amneris84（Shoko Egawa） 日時：2019-03-21 00:08／2019-03-20 16:43 URL： https://twitter.com/yjochi/status/1108384932131270657 https://twitter.com/amneris84/status/1108272923419148288 
+＞　TWEET： 献花の後、碑文を読み直す、地下鉄サリン事件の日。 https://t.co/UMmiLbWEo3  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-21 00:08 URL： https://twitter.com/yjochi/status/1108384765076373504 
+＞　TWEET： それは、いかんぞ。 https://t.co/VcJMgS9Sek  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-20 23:59 URL： https://twitter.com/yjochi/status/1108382654716469258 
+＞　TWEET： なんだ、これ。日本をレイプ天国にしてはならない。→女性に乱暴の男性に無罪、静岡　「故意認められない」 | 2019/3/20 - 共同通信 https://t.co/JJKNHu62Gh  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-20 23:52 URL： https://twitter.com/yjochi/status/1108380859197849600 
+＞　TWEET： なさけな〜。昔なら切腹か斬首刑だわな。 https://t.co/tsXiiCnI7v  
+
+▶RT yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜matimura（町村泰貴） 日時：2019-03-20 20:36／2019-03-20 17:18 URL： https://twitter.com/yjochi/status/1108331449197826048 https://twitter.com/matimura/status/1108281752991252481 
+＞　TWEET： 家裁内で女性が刺され心肺停止　夫を殺人未遂容疑で逮捕 \n https://t.co/Ga6LjZIsCc \n まさに新聞報道だけからの感想だけど、家裁の調停がDV被害者にいかに危険な機会となっているか、そして同様のことが面会交流などで加害… https://t.co/dpADl1pvaU  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-20 20:19 URL： https://twitter.com/yjochi/status/1108327266604339200 
+＞　TWEET： 酒の上での乱暴狼藉か。タイミング、場所が最悪。→「韓国人が嫌いだ」韓国の空港で酒に酔い暴言、厚労省課長を更迭 https://t.co/idF2sdfZBQ @Sankei_newsより  
+
+▶TW yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2019-03-20 20:06 URL： https://twitter.com/yjochi/status/1108323949404782593 
+＞　TWEET： 19時35分に新千歳に到着するはずのANAが、遅れて、飛行機降りたのが19時52分くらいで、ダッシュして、20時発の快速エアポートに間に合った。ダメかと思ったが、やればできるものだ。笑  
+
+--
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 18:05 URL： https://twitter.com/yjochi/status/1012623077866270721 
+＞　TWEET： 日英同盟再び。 https://t.co/4ETjJXutBs  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 18:04 URL： https://twitter.com/yjochi/status/1012622905417478146 
+＞　TWEET： 破談。→小室圭さん8月に渡米､ロースクール入学へ 弁護士資格取得のため､帰国は2021年見通し | 日テレNEWS24 - 東洋経済オンライン https://t.co/H5zOoYgTXC @Toyokeizaiより  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 14:05 URL： https://twitter.com/yjochi/status/1012562657126146048 
+＞　TWEET： 日大第三者委、内田前監督らの指示認定　悪質タックル：朝日新聞デジタル https://t.co/31OYcZnBqd  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 13:43 URL： https://twitter.com/yjochi/status/1012557260340547586 
+＞　TWEET： 港区、31度かよ。暑い。  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜CourrierJapon（クーリエ・ジャポン） 日時：2018-06-29 12:34／2018-06-29 12:08 URL： https://twitter.com/yjochi/status/1012539655428833280 https://twitter.com/CourrierJapon/status/1012533361297027072 
+＞　TWEET： 【再び読まれています】BBCでドキュメンタリー #JapanSecretShame が放映され、英国で反響を呼んでいるようです。 \n https://t.co/n9IrBgGcFf  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜bbcnewsjapan（BBC News Japan） 日時：2018-06-29 12:29／2018-06-29 08:32 URL： https://twitter.com/yjochi/status/1012538437843410944 https://twitter.com/bbcnewsjapan/status/1012478863815860225 
+＞　TWEET： BBCニュース - 「日本の秘められた恥」 　伊藤詩織氏のドキュメンタリーをBBCが放送 https://t.co/gclhymYylx  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜erika_asahi（Erika Toh (藤えりか)） 日時：2018-06-29 12:28／2018-06-29 07:06 URL： https://twitter.com/yjochi/status/1012538354041098240 https://twitter.com/erika_asahi/status/1012457358381887488 
+＞　TWEET： 何ということ、米メリーランド州の新聞社が銃撃、5人死亡・重傷者複数…！容疑者の白人男性は拘束。米国で起きがちな「容疑者、現場で射殺/自殺」にならなかっただけに動機や背景の解明に尽力してほしい。これを受けNY市警はNYタイムズやAB… https://t.co/ypWt5igLeu  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜beautiful_imgs（世界は美しい） 日時：2018-06-29 12:28／2018-06-29 12:00 URL： https://twitter.com/yjochi/status/1012538308134440960 https://twitter.com/beautiful_imgs/status/1012531255429115904 
+＞　TWEET： イーエスコウ城 - デンマーク https://t.co/qiVviGKtnD  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 10:58 URL： https://twitter.com/yjochi/status/1012515636818239488 
+＞　TWEET： 週刊金曜日とか赤旗にも出たので、聖教新聞とか自由新報とかにも出たい。あ、読売にはたまに出てるか。笑 \n 最近、産経にも出たな、そういえば。 \n 右から左まで幅広く包摂したい。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 10:52 URL： https://twitter.com/yjochi/status/1012514024049672193 
+＞　TWEET： カルチャーに、広場がないのだろう。 https://t.co/QXM7Yv18AI  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 09:18 URL： https://twitter.com/yjochi/status/1012490363494264833 
+＞　TWEET： 高校野球でも4打席敬遠とかやったりするしな。→「あぜん」「ギリギリの判断」日本の戦いぶりに各国：朝日新聞デジタル https://t.co/dqnm4GbhZV  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 09:07 URL： https://twitter.com/yjochi/status/1012487636663955456 
+＞　TWEET： 今週号の週刊金曜日。自分のインタビュー記事が掲載されたので、記念に？電子版で買ってみた。アプリをダウンロードしてiOS経由でも課金して読める。近くに本屋がなくなっている人も、最近は多いだろうし、こうして電子版で読めるのは便利だろう。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 05:00 URL： https://twitter.com/yjochi/status/1012425628287504384 
+＞　TWEET： [Twitter]2018年06月28日のツイート https://t.co/XBhyW3wgdl  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-29 02:08 URL： https://twitter.com/yjochi/status/1012382177277825024 
+＞　TWEET： 破談へ向けてソフトランディングかな。 https://t.co/Porn8xbLdB  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜t_kaku_ei_bot（田中角栄bot） 日時：2018-06-29 01:38／2018-06-29 01:37 URL： https://twitter.com/yjochi/status/1012374584161517568 https://twitter.com/t_kaku_ei_bot/status/1012374355748065281 
+＞　TWEET： 念仏を百万遍唱えても実行、実現しなければ意味が無い。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 21:47 URL： https://twitter.com/yjochi/status/1012316486315040770 
+＞　TWEET： 破談ぽいな。 https://t.co/FeUteL915p  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 21:44 URL： https://twitter.com/yjochi/status/1012315764831875073 
+＞　TWEET： 山本忖度新検事正着任、と聞いた函館の人心が動揺しているのか？（違）。→判決に不服? 法廷内で親子暴れ逮捕 証言台の椅子投げつけ 父親は傍聴席を飛び出す…　北海道函館地裁（北海道ニュースUHB） - Yahoo!ニュース… https://t.co/EKdJLfBcON  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 21:38 URL： https://twitter.com/yjochi/status/1012314190147563520 
+＞　TWEET： 怖い。 https://t.co/9TAMJsoxbV  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 21:37 URL： https://twitter.com/yjochi/status/1012314028218040321 
+＞　TWEET： こわー。近寄らんほうがいいな。→「報復人事」恐れる日大教職員組合 常務理事が守衛になった過去 #ldnews https://t.co/uJezpjolPQ  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜CourrierJapon（クーリエ・ジャポン） 日時：2018-06-28 21:03／2018-06-28 21:00 URL： https://twitter.com/yjochi/status/1012305363108892672 https://twitter.com/CourrierJapon/status/1012304772735610880 
+＞　TWEET： 6/29午前5時〜、BBCで伊藤詩織さんを取材したドキュメンタリー映画"Japan's Secret Shame"が放映されます。 \n https://t.co/CTXoQ9sWRk \n https://t.co/n9IrBgGcFf  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜bababa222222（おっちー） 日時：2018-06-28 20:45／2018-06-27 18:47 URL： https://twitter.com/yjochi/status/1012300896842088448 https://twitter.com/bababa222222/status/1011908950311108608 
+＞　TWEET： わいのキーホルダーをカリフォルニアに住んでるお金持ちの人が買ってくれて写真送られて来たんだけど。「エルメスのバーキンに付けました、最高」って。まだメール返信出来てません。 https://t.co/Enhdl7PTki  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 20:43 URL： https://twitter.com/yjochi/status/1012300437423153152 
+＞　TWEET： そうだろうな。 https://t.co/wsv8NnrXtK  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 20:41 URL： https://twitter.com/yjochi/status/1012299947046100993 
+＞　TWEET： ヘイト坊主。 https://t.co/wHFPHdceyl  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 20:22 URL： https://twitter.com/yjochi/status/1012295092130856960 
+＞　TWEET： 馬鹿が多いから。 https://t.co/2aK02ZczVE  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 20:11 URL： https://twitter.com/yjochi/status/1012292282953789440 
+＞　TWEET： ねこ。 https://t.co/bzD7925LLA  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 19:39 URL： https://twitter.com/yjochi/status/1012284275767431169 
+＞　TWEET： ご教示ありがとうございます。 https://t.co/YPkABuevTF  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 19:00 URL： https://twitter.com/yjochi/status/1012274592402964480 
+＞　TWEET： HTCの新旗艦スマホ「HTC U12+」インプレ。握って操作は進化、物理ボタンの排除は人を選ぶか - Engadget 日本版 https://t.co/2EagiHAg5W @engadgetjpから  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜400ER8ic（タPオカミルクココア） 日時：2018-07-01 17:59／2018-06-30 23:19 URL： https://twitter.com/yjochi/status/1013346454360883200 https://twitter.com/400ER8ic/status/1013064454903250953 
+＞　TWEET： かなり前にツイッターで見た \n 「18切符でチンタラ行くより新幹線や特急を使った方がメシ代宿代かからなくてトータルで逆に安くなると気付いたら青春が終わる」ってツイートすき  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 18:54 URL： https://twitter.com/yjochi/status/1012273022563020800 
+＞　TWEET： ZenFone 3 Ultraは、画面大きめで電子書籍読むのに使いやすいので、主にKindleリーダーとして活用することにした。 \n iPhone8Plus←メイン \n iPhoneX←仕事の通話、8Plusのサブ \n XperiaXcomp… https://t.co/4jJjdRIx3K  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-28 17:06 URL： https://twitter.com/yjochi/status/1012245845951971328 
+＞　TWEET： 死刑だな。→佐川配達員 配達先少女暴行か （毎日新聞） - au… - au サービスTOP https://t.co/SEqnRTL2iQ  #auサービスTOP　▼アプリDLはこちらから https://t.co/WRvIJbcuDE  
+
+--
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-25 05:00 URL： https://twitter.com/yjochi/status/1010975918263697408 
+＞　TWEET： [Twitter]2018年06月24日のツイート https://t.co/ThUNztytre  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-25 01:45 URL： https://twitter.com/yjochi/status/1010926907771138049 
+＞　TWEET： 動機、経緯が気になる。 https://t.co/0gcDsqwa9Q  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-25 01:06 URL： https://twitter.com/yjochi/status/1010917188998332417 
+＞　TWEET： 地上戦というのは、戦力差が勝敗に必ずしも直結しない。地の利、戦力の運用や集中、士気等々、様々な不確定要素が、劣勢にある側にも勝利の女神を微笑ませる。サッカー日本代表にも当てはまるだろう。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-25 00:46 URL： https://twitter.com/yjochi/status/1010912149705592833 
+＞　TWEET： 偉い。88888。 https://t.co/HoGRpFkITO  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-25 00:34 URL： https://twitter.com/yjochi/status/1010909148391792641 
+＞　TWEET： 富裕層が肥え太っても飲んだり食ったり着たりという、そういう使い方には限界がある。年収200万、300万という世帯を500万に上げる、500万の世帯は1000万あたりを目標に上げていく、そういう世帯を膨大に創出することで、可処分所得… https://t.co/D290jygyAy  
+
+▶RT yjochi（落合洋司 Yoji Ochiai）｜hillcrest0919（hillcrest0919） 日時：2018-06-25 00:05／2018-06-23 06:45 URL： https://twitter.com/yjochi/status/1010901697483304960 https://twitter.com/hillcrest0919/status/1010277556032073729 
+＞　TWEET： ついにBBCで伊藤詩織さんのドキュメンタリーが6月28日21時から放映される。 \n 必見です。 \n https://t.co/tiOXIEW4dc  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-25 00:03 URL： https://twitter.com/yjochi/status/1010901282750586880 
+＞　TWEET： 司法、特に刑事司法制度の大改革も、政治の上での自分の目標だったが、これも、自分はもうできないので、誰か頑張ってください。笑  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 23:50 URL： https://twitter.com/yjochi/status/1010898030281687040 
+＞　TWEET： 司法の世界では、需要もろくに見ずに法曹人口を激増させ、法科大学院が完全に失敗したことで、法曹志望者が激減し、今後、今までよりも全体としての能力は大きく低下して悲惨なことになるだろう。民事裁判の紛争処理能力はさらに低下し、冤罪は増え、処罰されるべき悪い奴は逃げる。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 23:35 URL： https://twitter.com/yjochi/status/1010894144187686912 
+＞　TWEET： 株が上がった、不動産が上がった、それで潤っているのはごく一部。雇用が数字上増えても、不安定な非正規雇用が増え、一般国民の所得は長期的に見て低下。かつての終身雇用時代の安定はなく、実力主義の名の下に、労働環境は悪化。自公などの政治家が美酒美食楽しむ一方、国民は疲弊。それが平成。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 23:27 URL： https://twitter.com/yjochi/status/1010892123460100101 
+＞　TWEET： 日本が退潮から発展へとV字回復するためには、既得権益にも思い切り切り込んで大改革するしかなかった。しかし、日本はそれができなかった。時すでに遅し。平成の次の時代は、皆で後悔したりなじりあったりしながら、国力の衰え、生活の低下を日々感じることになるだろう。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 23:01 URL： https://twitter.com/yjochi/status/1010885700797906947 
+＞　TWEET： 昨年の今頃は、自分なりに政治でなんとかしたいと思って、水面下で動いていたが、自分はその器ではないので、あとは皆さん、頑張ってください。笑  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 22:55 URL： https://twitter.com/yjochi/status/1010884046614716417 
+＞　TWEET： 少子高齢化がますます進み、戦後の日本の強みだったものがどんどん失われて、このままでは日本は確実に衰亡する。21世紀になったあたりから今までで、大改革をすべきところを、無為のままここまで来て、展望もない。もう終わっているというしかない。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 22:40 URL： https://twitter.com/yjochi/status/1010880284445691904 
+＞　TWEET： 政治も、司法も、今後、良くなる見込みはないだろう。国会も今の惨状。日本は、坂道を転がり落ちるように、平成の次の時代は衰えていくと思う。自分はフェイドアウトしながらそれを見つつ死へと向かう。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 22:12 URL： https://twitter.com/yjochi/status/1010873302582083586 
+＞　TWEET： 自分はもう初老で、徐々にフェイドアウトしようとしている身だが、 新聞読まない人に支持されると副総理が誇らしげに語る日本は、これからどうなるのかという気はするな。草葉の陰から見守ることとしよう。  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 21:25 URL： https://twitter.com/yjochi/status/1010861442466136064 
+＞　TWEET： 自分は、毎日新聞を宅配購読し、朝日は電子版で読み、その他の新聞記事も、ツイッターで流れてきたりするのをかなり読んでいて、とてもじゃないが自民党支持者にはなれんわな。笑  
+
+▶TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-06-24 20:20 URL： https://twitter.com/yjochi/status/1010845215286890498 
+＞　TWEET： 失意の西郷隆盛を支えたのが愛加那、その西郷が再起して原動力となり成し遂げたのが明治維新。  
+
+```
+
+　次が落合洋司弁護士（東京弁護士会）のリツイートのツイートと、その返信欄のツイートになります。
+
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜nicodocs（ニコニコドキュメンタリー） 日時：2019-03-21 14:02／2019-03-20 17:21 URL： https://twitter.com/kk_hirono/status/1108594792416501763 https://twitter.com/nicodocs/status/1108282429230321664
+&twitter(1108594792416501763){theme:light}
+> レイプ被害で声を上げた #伊藤詩織 さんに密着したBBC放送ドキュメンタリー🎥 "Japan’s Secret Shame"を日本初放送 📺 \n   \n  警察や司法、そして支援体制の欠如など、日本の性被害者をとりまく悲惨な実態が浮き彫りに…… https://t.co/dWXdRu3HVD
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜V9glMwq8XRgUdk5（ドラ博士@週末浮上） 日時：2019-03-21 14:03／2019-03-21 10:42 URL： https://twitter.com/kk_hirono/status/1108594845457616897 https://twitter.com/V9glMwq8XRgUdk5/status/1108544256510038016
+&twitter(1108594845457616897){theme:light}
+> @nicodocs @yuePinky 安倍首相のお友達だと何やっても許されそう😓だってあと一息で犯人を捕まえられたのに逃がしたから😠
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜kouko_ohno（こう子） 日時：2019-03-21 14:03／2019-03-21 08:32 URL： https://twitter.com/kk_hirono/status/1108594865514778625 https://twitter.com/kouko_ohno/status/1108511646492704769
+&twitter(1108594865514778625){theme:light}
+> @nicodocs @suika_sirasawa この件がきっかけで、最近の裁判は強姦無罪が続いています。司法判断の基準が山口の行為なんでしょうね \n  強く抵抗しない、酔っ払って返事がない、目を開けたからOkとか、女性が身を守るため… https://t.co/W2olgIR5xF
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜HRyouchan（124zzdky） 日時：2019-03-21 14:03／2019-03-21 05:54 URL： https://twitter.com/kk_hirono/status/1108595086114222081 https://twitter.com/HRyouchan/status/1108472012651950080
+&twitter(1108595086114222081){theme:light}
+> @nicodocs #NHK は､遂に #BBC との #契約 を #安倍晋三 #官邸 #中村格 マンセー #政治部 の #脅迫 で #ドキュメント #初回放送 を #完全無視 して他メディアに明け渡した｡これは､ #史上初 の… https://t.co/1oGubzUMZS
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜MikuYKipling（Miku Y. Kipling🇨🇦🇯🇵） 日時：2019-03-21 14:05／2019-03-20 23:56 URL： https://twitter.com/kk_hirono/status/1108595400548585472 https://twitter.com/MikuYKipling/status/1108381804191313920
+&twitter(1108595400548585472){theme:light}
+> @nicodocs https://t.co/4NggMWU27S
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜DuMaTroiOi1（Du_Ma! Troi_Oi!） 日時：2019-03-21 14:05／2019-03-20 17:51 URL： https://twitter.com/kk_hirono/status/1108595511458582528 https://twitter.com/DuMaTroiOi1/status/1108290061001342976
+&twitter(1108595511458582528){theme:light}
+> @nicodocs 民間人の入った検察審査会でも「不起訴」の判断。 \n  それでも被疑者はこうやって「犯人」として糾弾され続ける。 \n  こんなの男性としては恐怖以外の何物でもない。 \n  一度「レイプ」と叫ばれたらどうやっても救済されず、社会的に抹殺される。
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜aqualove7（あきじいさん） 日時：2019-03-21 14:06／2019-03-21 07:04 URL： https://twitter.com/kk_hirono/status/1108595804019687424 https://twitter.com/aqualove7/status/1108489447429922816
+&twitter(1108595804019687424){theme:light}
+> @nicodocs この事件は日本が未だ人権後進国である証。
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜flomx1（flomx） 日時：2019-03-21 14:06／2019-03-21 07:38 URL： https://twitter.com/kk_hirono/status/1108595817911189504 https://twitter.com/flomx1/status/1108498010554535936
+&twitter(1108595817911189504){theme:light}
+> @nicodocs 日本の恥 \n  それは司法 \n  それは民度 \n  それは意識 \n   \n  それは制度 \n  … \n  なぜ、悪を擁護するのか？ \n  その見返りはなんなのか？ \n   \n  日本の未来は暗い
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜eien0213（やまだ） 日時：2019-03-21 14:06／2019-03-20 23:28 URL： https://twitter.com/kk_hirono/status/1108595832683532288 https://twitter.com/eien0213/status/1108374791004708864
+&twitter(1108595832683532288){theme:light}
+> @nicodocs @nico_nico_news あれ、名前に見覚えが \n  （自分の想像通りなら、この人の場合、放送内容と似つかわしくない気がするんやけど。ニコニコで例えたら、ひろゆきみたいなもんじゃん。）
+◁◁◁
+<hr />
+
+　３月２６日（火）１９時からの放送ということで、偶然なのだと思いますが、静岡の矯正性交致傷の無罪判決に言及した落合洋司弁護士（東京弁護士会）のツイートが２件ありました。。この静岡の無罪判決は、法クラのツイートで話題になっていて、昨夜初めて知りました。
+
+　次の２つのキーワードで同じ落合洋司弁護士（東京弁護士会）のツイートの記録を調べましたが、結果は出ませんでした。検索の目的は久留米の準強姦無罪判決のニュースです。
+
+```
+Diginnos-PC:~/git/tweet-log_2015/2017_法務検察当局宛て注目参考資料弁護士のリスト化ツイート-block
+[10021]  % cat yjochi_201611161139-201903211109.txt| grep -B 5 -A 10  久留米 |sed -E 's/(.+)(TWEET：.+)/\1\n＞　\2\n/' |xsel -b
+Diginnos-PC:~/git/tweet-log_2015/2017_法務検察当局宛て注目参考資料弁護士のリスト化ツイート-block
+[10022]  % cat yjochi_201611161139-201903211109.txt| grep -B 5 -A 10  準強姦 |sed -E 's/(.+)(TWEET：.+)/\1\n＞　\2\n/' |xsel -b
+```
+
+＜＜＜2019-03-21（木曜日）14：18＿［これまでの記述範囲の終了時刻］＜＜＜
+
+* ＋　「なんだ、これ。日本をレイプ天国にしてはならない。→女性に乱暴の男性に無罪、静岡　「故意認められない」」という落合洋司弁護士（東京弁護士会）のツイート
+  :LOGBOOK:
+  CLOCK: [2019-03-21 木 14:22]--[2019-03-21 木 14:45] =>  0:23
+  :END:
+
+＞＞＞2019-03-21（木曜日）14：22＿［これからの記述範囲の開始時刻］＞＞＞
+
+▶ ツイート％yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）％2019/03/20 23:59％ https://twitter.com/yjochi/status/1108382654716469258
+&twitter(1108382654716469258){theme:light}
+> なんだ、これ。日本をレイプ天国にしてはならない。→女性に乱暴の男性に無罪、静岡　「故意認められない」 | 2019/3/20 - 共同通信 https://t.co/JJKNHu62Gh  
+▶
+
+　落合洋司弁護士（東京弁護士会）がリンクを張った次の記事は、共同通信社で２０１９年３月２０日１３時０５分が配信時刻となっています。前に見たニュース記事とは一部内容が違うと感じました。短文記事を問題にする法クラもいたので、全文を引用します。
+
+```
+静岡県磐田市で昨年、25歳だった女性に乱暴し、けがを負わせたとして強制性交致傷の罪に問われたメキシコ国籍の男性被告（45）の裁判員裁判で、静岡地裁浜松支部は20日までに、「故意が認められない」として無罪判決（求刑懲役7年）を言い渡した。判決は19日。
+
+　検察側は「被告の暴行で女性の反抗が著しく困難になることは明らか」と主張していたが、山田直之裁判長は、暴行が女性の反抗を困難にするものだったと認定した上で、女性が抵抗できなかった理由は、女性の「頭が真っ白になった」などの供述から精神的な理由によるものであると説明。
+
+　「被告からみて明らかにそれと分かる形での抵抗はなかった」として、「被告が加えた暴行が女性の反抗を困難にすると認識していたと認めるには、合理的な疑いが残る」と結論付けた。
+
+［source：］女性に乱暴の男性に無罪、静岡　「故意認められない」 ｜ 共同通信 https://this.kiji.is/480939976862778465?c=0
+```
+
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜suni（Suni@東南アジアベンチャー🇲🇾マレーシア在住） 日時：2019-03-21 14:29／2019-03-21 00:14 URL： https://twitter.com/kk_hirono/status/1108601445346009088 https://twitter.com/suni/status/1108386217588985862
+&twitter(1108601445346009088){theme:light}
+> つい最近も似たような事件で無罪になってたと思うんだけど、日本にいる女性の人権ってゼロどころか人以下の扱いなんじゃ… https://t.co/33NZlyHNSJ
+◁◁◁
+<hr />
+▷▷▷リツイート▷▷▷
+RT kk_hirono（告発＼市場急配センター殺人未遂事件＼金沢地方検察庁・石川県警察御中）｜mifyu_manila（みふゅ@マニラ） 日時：2019-03-21 14:29／2019-03-21 07:03 URL： https://twitter.com/kk_hirono/status/1108601490728316928 https://twitter.com/mifyu_manila/status/1108489160887685120
+&twitter(1108601490728316928){theme:light}
+> @suni ほんとひどいですね、、。
+◁◁◁
+<hr />
+
+　落合洋司弁護士（東京弁護士会）のツイートのURLを引用したツイートと、そのツイートに対する１件の返信ツイートです。
+
+　落合洋司弁護士（東京弁護士会）は、URLを引用されたツイートのURLを引用し、次のツイートを行っています。メンションがついていないのが少々気になりますが、これも返信というかたちになるものと思います。
+
+▶ ツイート％yjochi（落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）％2019/03/21 00:25％ https://twitter.com/yjochi/status/1108389016217382915
+&twitter(1108389016217382915){theme:light}
+> 司法の事実認定に、かなり問題がありますね。今更、抵抗しない貞操は保護に値しない、は無いでしょう。考え方がおかしいですよ。 https://t.co/QUwrGlfMHv  
+▶
+
+　落合洋司弁護士（東京弁護士会）のツイートには論理の飛躍があるとも感じますし、他意があるのかと勘ぐりたくもなります。「司法の事実認定」というのも聞いなるところで、他は久留米の準強姦無罪の件でも、裁判官個人の資質を問う声を見かけてきました。
+
+＜＜＜2019-03-21（木曜日）14：45＿［これまでの記述範囲の終了時刻］＜＜＜
+
+* ＋＋　山口敬之氏の準強姦事件、被害者とされた伊藤詩織さんに関する、安倍政権や自民党をこき下ろし立憲民主党から出馬するを落合洋司弁護士（東京弁護士会）のツイートの記録
+  :LOGBOOK:
+  CLOCK: [2019-03-21 木 14:49]--[2019-03-21 木 17:21] =>  2:32
+  :END:
+
+＞＞＞2019-03-21（木曜日）14：49＿［これからの記述範囲の開始時刻］＞＞＞
+
+[link:] 2019年03月21日14時42分の登録： REGEXP：”山口敬之”／落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ（@yjochi）の検索（2015-04-29〜2018-01-31／2019年03月21日14時42分の記録6件） http://hirono2014sk.blogspot.com/2019/03/regexp19yjochi2015-04-292018-01.html
+
+[link:] 2019年03月21日14時44分の登録： REGEXP：”（伊藤詩織｜詩織｜詩織さん）”／落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ（@yjochi）の検索（2017-06-02〜2018-03-24／2019年03月21日14時44分の記録6件） http://hirono2014sk.blogspot.com/2019/03/regexp19yjochi2017-06-022018-03.html
+
+　時刻は１６時５６分です。スクリプトをコピーして改変していました。次がその実行になります。
+
+```
+% ajx-user-mysql-REGEXP_tweet-text.rb  yjochi  '(伊藤詩織|詩織|詩織さん)' '1000-01-01/3000-01-01'
+
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN '1000-01-01' AND '3000-01-01' AND (user LIKE "yjochi") AND  tweet REGEXP "(伊藤詩織|詩織|詩織さん)"  ORDER BY tw_date ASC
+REGEXP：”（伊藤詩織｜詩織｜詩織さん）”／落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ（@yjochi）の検索（2017-06-02〜2019-03-21／2019年03月21日17時06分の記録11件）
+
+▶（01／11） RT yjochi（落合洋司 Yoji Ochiai）｜nikkan_gendai（日刊ゲンダイ） 日時：2017-06-02 11:10／2017-06-02 06:15 URL： https://twitter.com/yjochi/status/870462552207106048 https://twitter.com/nikkan_gendai/status/870388250086699008
+＞　【社会】山口氏にレイプされたとして警察に刑事告訴した詩織さんは、不起訴を不服として「検察審査会」に審査を申し立てました。今回の審査でのポイントを元検事で弁護士の落合洋司氏に聞きました。 https://t.co/EvpLMsNnuJ #日刊… 日刊ゲンダイ（nikkan_gendai
+
+▶（02／11） TW yjochi（落合洋司 Yoji Ochiai） 日時：2017-06-17 09:50 URL： https://twitter.com/yjochi/status/875878247623311360
+＞　Applewatch。→「前川氏や詩織さんの思いを直接ぶつけたかった」 菅官房長官を厳しく追及し内部文書の「再調査」を実現！ 岩上安身による東京新聞記者・望月衣塑子氏インタビュー https://t.co/QJLGgWXW40 @iwakamiyasumiさんから
+
+▶（03／11） TW yjochi（落合洋司 Yoji Ochiai） 日時：2017-07-08 08:58 URL： https://twitter.com/yjochi/status/883475317146308608
+＞　事件送致後、時が過ぎる中で不起訴の方向が見えてくることもある。→山口敬之レイプ疑惑はどうなったのか？ 詩織さんに相談されていた記者が証言！ 作家の中村文則も不起訴の経緯に鋭い分析 https://t.co/mNOKOKFCdo @litera_webさんから
+
+▶（04／11） RT yjochi（落合洋司 Yoji Ochiai）｜YahooNewsTopics（Yahoo!ニュース 速報や地震情報も） 日時：2017-09-22 17:31／2017-09-22 16:36 URL： https://twitter.com/yjochi/status/911145872959795201 https://twitter.com/YahooNewsTopics/status/911132003008897024
+＞　【元TBS記者山口氏 不起訴相当】ジャーナリストの詩織さんから「性犯罪被害を受けた」と指摘された元TBS記者の山口敬之氏に対する東京地検の不起訴処分について東京第六検察審査会が「不起訴相当」とする議決を公表。 https://t.co/… Yahoo!ニュース 速報や地震情報も（YahooNewsTopics
+
+▶（05／11） TW yjochi（落合洋司 Yoji Ochiai） 日時：2017-09-26 20:33 URL： https://twitter.com/yjochi/status/912641351358996480
+＞　検察審査会への申立が予想される事件では、検察庁が、起訴できない方向の証拠を厚くしたりするもの。→検察審査会はなぜ不起訴を覆さないのか？  「詩織さん事件」から考える背景事情|弁護士ドットコムニュース https://t.co/6fO8pL8EEt @bengo4topicsより
+
+▶（06／11） TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-03-24 15:37 URL： https://twitter.com/yjochi/status/977434253561483265
+＞　詩織さん事件と同様の流れ、弁解だが、こちらは即逮捕。→エムケイタクシー運転手 泥酔21歳女性客を性的暴行の衝撃（日刊ゲンダイDIGITAL） https://t.co/cI1ihfibeJ
+
+▶（07／11） RT yjochi（落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜hillcrest0919（hillcrest0919） 日時：2018-06-25 00:05／2018-06-23 06:45 URL： https://twitter.com/yjochi/status/1010901697483304960 https://twitter.com/hillcrest0919/status/1010277556032073729
+＞　ついにBBCで伊藤詩織さんのドキュメンタリーが6月28日21時から放映される。 \n 必見です。 \n https://t.co/tiOXIEW4dc hillcrest0919（hillcrest0919
+
+▶（08／11） RT yjochi（落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜CourrierJapon（クーリエ・ジャポン） 日時：2018-06-28 21:03／2018-06-28 21:00 URL： https://twitter.com/yjochi/status/1012305363108892672 https://twitter.com/CourrierJapon/status/1012304772735610880
+＞　6/29午前5時〜、BBCで伊藤詩織さんを取材したドキュメンタリー映画""Japan''''s Secret Shame""が放映されます。 \n https://t.co/CTXoQ9sWRk \n https://t.co/n9IrBgGcFf クーリエ・ジャポン（CourrierJapon
+
+▶（09／11） RT yjochi（落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜bbcnewsjapan（BBC News Japan） 日時：2018-06-29 12:29／2018-06-29 08:32 URL： https://twitter.com/yjochi/status/1012538437843410944 https://twitter.com/bbcnewsjapan/status/1012478863815860225
+＞　BBCニュース - 「日本の秘められた恥」 　伊藤詩織氏のドキュメンタリーをBBCが放送 https://t.co/gclhymYylx BBC News Japan（bbcnewsjapan
+
+▶（10／11） RT yjochi（落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜hillcrest0919（hillcrest0919） 日時：2018-06-30 17:43／2018-06-30 00:05 URL： https://twitter.com/yjochi/status/1012979860497620999 https://twitter.com/hillcrest0919/status/1012713561041195009
+＞　BBCの詩織さんドキュメンタリーを見ている。 \n TBSの山口敬之や月刊Hanadaの花田紀凱の実名と写真、動画が遠慮なく出てくる。 \n またNYタイムズチーフのMotoko Richのインタビューでは山口敬之と安倍晋三の極めて近い関係性も遠慮なく… hillcrest0919（hillcrest0919
+
+▶（11／11） RT yjochi（落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜nicodocs（ニコニコドキュメンタリー） 日時：2019-03-21 07:29／2019-03-20 17:21 URL： https://twitter.com/yjochi/status/1108495715838259200 https://twitter.com/nicodocs/status/1108282429230321664
+＞　レイプ被害で声を上げた #伊藤詩織 さんに密着したBBC放送ドキュメンタリー? ""Japan’s Secret Shame""を日本初放送 ? \n  \n 警察や司法、そして支援体制の欠如など、日本の性被害者をとりまく悲惨な実態が浮き彫りに… \n  \n 3月26日（火）… ニコニコドキュメンタリー（nicodocs
+
+```
+
+　次はキーワードを「山口敬之」に変えてのコマンドの実行となります。
+
+```
+ % ajx-user-mysql-REGEXP_tweet-text.rb  yjochi  '山口敬之' '1000-01-01/3000-01-01'
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN '1000-01-01' AND '3000-01-01' AND (user LIKE "yjochi") AND  tweet REGEXP "山口敬之"  ORDER BY tw_date ASC
+REGEXP：”山口敬之”／落合洋司🌈（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ（@yjochi）の検索（2015-04-29〜2018-06-30／2019年03月21日17時13分の記録7件）
+
+▶（1／7） TW yjochi（落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ） 日時：2015-04-29 09:51 URL： https://twitter.com/yjochi/status/593215920647974912
+＞　普通は、自分のところで記事、報道できないとネタを週刊誌に渡したりペンネームで記事にして前面に出ないようにするものだが。→韓国軍のベトナム慰安所報道で処分、「左遷」　TBS山口敬之ワシントン支局長に激励の声相次ぐ <a href=http://t.co/yjutmujZnr target="_blank">http://t.co/yjutmujZnr</a>
+
+▶（2／7） TW yjochi（落合洋司 Yoji Ochiai） 日時：2017-06-10 14:00 URL： https://twitter.com/yjochi/status/873404604939091970
+＞　若狭先生が言うと有象無象の落合が言うより何百倍も説得力がある。→【必読】若狭勝議員（元東京地検特捜部副部長）が断言！「元TBS記者山口敬之氏レイプ疑惑、警視庁本部刑事部長がその逮捕状の執行をストップすることは通常絶対にあり得ない」 https://t.co/nt26zOwBfc
+
+▶（3／7） TW yjochi（落合洋司 Yoji Ochiai） 日時：2017-06-13 02:45 URL： https://twitter.com/yjochi/status/874321885634248704
+＞　そこまでクロなら嫌疑不十分で不起訴にならんだろうし、警視庁の刑事部長がわざわざ山梨のゴルフ場まで行かんだろう。TBSの絡み方も不自然。→安倍政権御用記者、山口敬之氏の「準強姦疑惑事件」の全内幕をニューズ・オプエドで上杉隆氏が暴露！ https://t.co/JNxy6OfEF8
+
+▶（4／7） TW yjochi（落合洋司 Yoji Ochiai） 日時：2017-07-08 08:58 URL： https://twitter.com/yjochi/status/883475317146308608
+＞　事件送致後、時が過ぎる中で不起訴の方向が見えてくることもある。→山口敬之レイプ疑惑はどうなったのか？ 詩織さんに相談されていた記者が証言！ 作家の中村文則も不起訴の経緯に鋭い分析 https://t.co/mNOKOKFCdo @litera_webさんから
+
+▶（5／7） RT yjochi（落合洋司 Yoji Ochiai）｜YahooNewsTopics（Yahoo!ニュース 速報や地震情報も） 日時：2017-09-22 17:31／2017-09-22 16:36 URL： https://twitter.com/yjochi/status/911145872959795201 https://twitter.com/YahooNewsTopics/status/911132003008897024
+＞　【元TBS記者山口氏 不起訴相当】ジャーナリストの詩織さんから「性犯罪被害を受けた」と指摘された元TBS記者の山口敬之氏に対する東京地検の不起訴処分について東京第六検察審査会が「不起訴相当」とする議決を公表。 https://t.co/… Yahoo!ニュース 速報や地震情報も（YahooNewsTopics
+
+▶（6／7） TW yjochi（落合洋司 Yoji Ochiai） 日時：2018-01-31 19:01 URL： https://twitter.com/yjochi/status/958641295169236993
+＞　落合コメントあり。→スパコン事件が風雲急　「山口敬之」の携帯電話を押さえた特捜部のターゲット（デイリー新潮） - Yahoo!ニュース https://t.co/hPMWAYY7z8 @YahooNewsTopics
+
+▶（7／7） RT yjochi（落合洋司?（立憲民主党参議院比例第19総支部長・ヨージ）寛容で温かい社会へ）｜hillcrest0919（hillcrest0919） 日時：2018-06-30 17:43／2018-06-30 00:05 URL： https://twitter.com/yjochi/status/1012979860497620999 https://twitter.com/hillcrest0919/status/1012713561041195009
+＞　BBCの詩織さんドキュメンタリーを見ている。 \n TBSの山口敬之や月刊Hanadaの花田紀凱の実名と写真、動画が遠慮なく出てくる。 \n またNYタイムズチーフのMotoko Richのインタビューでは山口敬之と安倍晋三の極めて近い関係性も遠慮なく… hillcrest0919（hillcrest0919
+
+```
+
+＜＜＜2019-03-21（木曜日）17：21＿［これまでの記述範囲の終了時刻］＜＜＜
+
+* レイプ疑惑は検察審査会へ 山口敬之氏は「起訴」されるか｜日刊ゲンダイDIGITAL　相談を受けていた清水潔記者が「詩織さんの主張は2年前から変わらない」
+  :LOGBOOK:
+  CLOCK: [2019-03-21 木 18:01]--[2019-03-21 木 18:02] =>  0:01
+  :END:
+
+＞＞＞2019-03-21（木曜日）18：01＿［これからの記述範囲の開始時刻］＞＞＞
+
+```
+７月3日放送の『大竹まことゴールデンラジオ』（文化放送）にゲスト生出演したジャーナリストの清水潔氏が、山口氏によるレイプ事件発生からすぐの2015年7月の段階で、詩織さんから直接相談を受けていたことを、初めて明かしたのである。
+
+　清水氏といえば、公式発表に頼らない独自の調査報道を重ね、桶川ストーカー殺人事件、北関東連続幼女誘拐殺人事件など、何度も警察や司法の嘘・欺瞞を暴いてきたジャーナリスト。その清水氏は、生放送のなかでこう切り出した。
+
+「この事件について、私はお伝えしなければいけないことがあるなと前から思っていたので、今日、ちょっとお話させていただきたい。詩織さんが、記者会見などでいろいろ話をされたときに、ネットなどでは、『これは政権に対する攻撃なんじゃないか？』『政治利用してんじゃないの？』『本当の話なのか？』みたいな非常に誹謗中傷、無責任な声があがったんですね。これについて、否定しておきたいと思います。実は私はこの事件、2年前からですね、詩織さんから直接相談を受けていたんです」
+
+　さらに清水氏はこう続けた。
+
+「私が詩織さんから相談を受けたのはその年の7月の末なんです。本当に（山口氏が）逮捕されなかったというときから、ひと月ぐらい後だったんですね。相談に来られたのはまったく個人的なルートで、私のところに訪ねてきてくれたということなんですけど、そのときの彼女の説明、こんな被害があるんですということと、今彼女が言っていることは、まったく同じなんですよ」
+
+　この清水氏の証言は極めて重要だ。つまり、詩織さんの発言内容が事件発生から約3カ月後の段階と、それから2年だった現在とで首尾一貫していることを、当時から相談されていた人間として証明したのである。
+
+［source：］相談を受けていた清水潔記者が「詩織さんの主張は2年前から変わらない」｜LITERA／リテラ https://lite-ra.com/2017/07/post-3293_2.html
+```
+
+＜＜＜2019-03-21（木曜日）18：02＿［これまでの記述範囲の終了時刻］＜＜＜
+
